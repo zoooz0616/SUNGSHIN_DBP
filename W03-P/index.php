@@ -19,7 +19,8 @@ $update_link='';
 $delete_link='';
 
   if (isset($_GET['id'])) {
-      $query = "SELECT * FROM cravity WHERE id={$_GET['id']}";//저 주소에 저장되니까 그 아이디에 맞느거 가져옴.
+      $filtered_id = mysqli_real_escape_string($link,$_GET['id']);
+      $query = "SELECT * FROM cravity WHERE id={$filtered_id}";//저 주소에 저장되니까 그 아이디에 맞느거 가져옴.
       $result = mysqli_query($link, $query);
       $row = mysqli_fetch_array($result);
       $article = array(
