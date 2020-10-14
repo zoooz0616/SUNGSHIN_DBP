@@ -11,7 +11,7 @@ https://youtu.be/STT9E6T5bQc
 <새로 배운 내용>
 -------------
 
-*MySQL
+* MySQL
 
 ```
 1.정렬
@@ -24,14 +24,14 @@ GROUP BY __
 LIMIT __
 ```
 
-*CSS 
+* CSS 
 ```
 body{ font-family: 12px}
 table { width:100% }
 tr,td { padding : 10px; border-bottom: 1px solid }
 ```
 
-*PHP
+* PHP
 ```
 1.print와 echo의 차이점
 :print는 하나의 입력을 받아 리턴.echo는 하나 이상의 문자열 출력
