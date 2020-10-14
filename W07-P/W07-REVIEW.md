@@ -6,49 +6,55 @@
 <과제 실행 영상>
 --------------
 https://youtu.be/STT9E6T5bQc
+:부서별 가장 높은 연봉을 받는 직원을 나타냄.
 
 <새로 배운 내용>
 -------------
 
-< MySQL >
-------------
-* 정렬
+*MySQL
+
 ```
+1.정렬
 ORDER BY __
-```
 
-* 그룹
-```
+2.그룹
 GROUP BY __
-```
 
-* 제한
-```
+3.제한
 LIMIT __
 ```
 
-< CSS >
-  -----
+*CSS 
 ```
 body{ font-family: 12px}
 table { width:100% }
 tr,td { padding : 10px; border-bottom: 1px solid }
 ```
 
+*PHP
+```
+1.print와 echo의 차이점
+:print는 하나의 입력을 받아 리턴.echo는 하나 이상의 문자열 출력
+
+2.배열 선언 방법
+: $foo=[1,2,3,4]; or $bar = array(1,2,3,4);
+```
+
 
 <문제 발생과 해결 과정>
 -------------
-visual studio code에서 vmware의 서버에 접속하는데 'could not establish connection to' 오류가 계속 발생했다. 여러번 껐다 키고, vwmare도 껐다 켰더니 해결되었다.
+'mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given'오류가 발생함. 오타 발견..
+
 
 <참고사이트>
 ----------
-https://github.com/microsoft/vscode-remote-release/issues/2805
+https://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=qna_function&wr_id=238408&page=2579
 
 <회고>
 ------
-(+): 저번 mysql을 이용해 CRUD를 만들었었기 때문에 이번에는 더 쉽게 코딩할 수 있었다.
+(+): 처음 배웠을 때보다 확실히 실력이 는 것을 체감함. 원하는 결과가 나오도록 코딩할 수 있게됨!
 
-(-): 수업시간에 강의를 듣는것은 아직도 어렵다.
+(-): 오타 좀 조심해야겠다.
 
-(!): mariaDB, VScode
+(!): MySQL, PHP
 
