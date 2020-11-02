@@ -26,5 +26,5 @@ https://developer88.tistory.com/21
 
 (-): kaggle의 데이터를 import하는 것만 3시간 이상 걸렸다. 화났다. port forwarding을 시도해보고 싶다. 
 
-(!): kaggle의 데이터를 db에 저장하는 방법, css, 
+(!): kaggle의 데이터를 db에 저장하는 방법, css, php
 
