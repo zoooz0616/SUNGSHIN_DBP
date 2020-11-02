@@ -38,7 +38,11 @@ CLI기반인 리눅스에 비해 windows는 GUI로 명령의 입력이 아닌 �
 1. 유튜브에 업로드된 모든 영상들을 조회수 순으로 정렬. => 요즘 트렌드를 알기 쉬움.
 <img src="https://user-images.githubusercontent.com/53183320/97819865-a0c52180-1cee-11eb-82fd-01c08a709a50.PNG">
 2. 영상 카테고리별로 분류. => 자신이 관심있는 카테고리의 트렌드를 접할 수 있음.
+<img src = "https://user-images.githubusercontent.com/53183320/97819906-e8e44400-1cee-11eb-89b4-e13dbd6c7656.PNG">
+<img src = "https://user-images.githubusercontent.com/53183320/97819907-ebdf3480-1cee-11eb-8a84-7d46e6cfb77c.PNG">
 3. 키워드 검색 기능. => 자신이 찾고 싶은 키워드를 검색하면 영상의 태그를 검색해 사용자가 입력한 키워드를 포함하고 있는 영상들을 보여줌.
+<img src = "https://user-images.githubusercontent.com/53183320/97819931-09140300-1cef-11eb-8ec6-36ade42e09a5.PNG">
+<img src = "https://user-images.githubusercontent.com/53183320/97819932-09ac9980-1cef-11eb-9889-63274ff75a8b.PNG">
 
 <동작 영상>
 ----------
