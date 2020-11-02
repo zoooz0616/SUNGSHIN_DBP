@@ -53,6 +53,6 @@ vmware를 사용헤야했다. 하지만 내 노트북이 감당을 하지 못하
 <img src = "https://user-images.githubusercontent.com/53183320/97819931-09140300-1cef-11eb-8ec6-36ade42e09a5.PNG">
 <img src = "https://user-images.githubusercontent.com/53183320/97819932-09ac9980-1cef-11eb-9889-63274ff75a8b.PNG">
 
-<동작 영상>
-----------
+동작 영상
+===========
 https://youtu.be/9VInSnPQBrA
